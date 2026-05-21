@@ -47,7 +47,7 @@ def load_data():
         data['customer_features'] = pd.read_csv("data/processed/customer_features.csv")
         data['transactions'] = pd.read_csv("data/processed/transactions_clean.csv")
     except FileNotFoundError:
-        st.error("❌ Processed data not found. Please run `python src/pipeline.py` first.")
+        st.error("Processed data not found. Please run `python src/pipeline.py` first.")
         return None
     
     # Load model comparison
@@ -76,7 +76,7 @@ def load_data():
             data['model'] = joblib.load(os.path.join(mod_dir, model_files[0]))
             data['best_model_name'] = model_files[0].replace('best_model_', '').replace('.joblib', '')
     except Exception as e:
-        st.warning(f"⚠️  Could not load model: {e}")
+        st.warning(f" Could not load model: {e}")
     
     # Add segmentation
     if 'customer_features' in data:
@@ -277,7 +277,7 @@ elif page == "Classification":
         - **Verdict**: Random Forest is the winner - use for production!
         """)
     else:
-        st.warning("⚠️  Model comparison data not available. Run pipeline first.")
+        st.warning(" Model comparison data not available. Run pipeline first.")
 
 
 # ===========================
@@ -487,7 +487,7 @@ elif page == "Recommenders":
             """)
     
     else:
-        st.warning("⚠️  Recommender evaluation data not available. Run pipeline first.")
+        st.warning(" Recommender evaluation data not available. Run pipeline first.")
 
 
 # ===========================
