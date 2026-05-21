@@ -1,1 +1,0 @@
-BSc dissertation: predicting repeat customer behaviour from UCI Online Retail data using Random Forest, Decision Tree, and Logistic Regression
