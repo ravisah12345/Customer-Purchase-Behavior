@@ -394,7 +394,7 @@ Running `python src/pipeline.py` on the same dataset produces identical results 
 
 | Stat | Value |
 |---|---|
-| Source | Kaggle — https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci |
+| Source | Kaggle — https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering
 | Raw size | 541,909 transactions x 8 columns |
 | After cleaning | 397,484 transactions x 9 columns |
 | Customers | 4,332 unique |
