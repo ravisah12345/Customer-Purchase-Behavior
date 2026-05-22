@@ -264,7 +264,7 @@ pip install -r requirements.txt
 
 ### 4. Add the Dataset
 Download the UCI Online Retail II dataset from Kaggle:
-> https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering
+> (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 Place the downloaded file at:
 ```
