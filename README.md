@@ -141,10 +141,10 @@ Established customers spend 11.8x more than new customers on average, justifying
 |---|---|---|---|---|---|---|---|
 | Popularity-based | 5 | 0.1312 | 0.0124 | 96.10x | 0.1320 | 0.0767 | 100% |
 | Market Basket (Apriori) | 5 | 0.1333 | 0.0260 | 97.68x | **0.2304** | **0.1375** | 1.39% |
-| **Collaborative Filtering** ⭐ | **5** | **0.1460** | 0.0249 | **106.93x** | 0.1640 | 0.1168 | **100%** |
+| **Collaborative Filtering** | **5** | **0.1460** | 0.0249 | **106.93x** | 0.1640 | 0.1168 | **100%** |
 | Popularity-based | 10 | 0.1055 | 0.0213 | 38.66x | 0.1154 | 0.0523 | 100% |
 | Market Basket (Apriori) | 10 | 0.0667 | 0.0260 | 24.42x | 0.1609 | 0.0792 | 1.39% |
-| **Collaborative Filtering** ⭐ | **10** | 0.1024 | **0.0320** | 37.52x | 0.1307 | 0.0763 | **100%** |
+| **Collaborative Filtering** | **10** | 0.1024 | **0.0320** | 37.52x | 0.1307 | 0.0763 | **100%** |
 
 **Key findings:**
 - Collaborative Filtering achieves best Precision@5 (0.146), best Lift@5 (106.93x), and best MAP@5 (0.117)
