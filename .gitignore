@@ -65,3 +65,18 @@ dist/
 # Secret and config files
 credentials.json
 secrets.json
+
+# Large data files
+data/raw/
+data/processed/
+outputs/tables/item_similarity_matrix.csv
+outputs/models/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
