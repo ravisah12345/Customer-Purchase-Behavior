@@ -1,0 +1,4 @@
+evaluation_type,train_size,test_size,accuracy,precision,recall,f1,notes
+Standard (Random Split),3465,867,0.985,0.9964,0.9806,0.9884,"Baseline — same time period train/test, optimistic estimate"
+Temporal Split (Train early → Test later),3032,1300,0.9915,1.0,0.9905,0.9952,Realistic — simulates predicting behaviour of future customers
+Cold-Start Simulation (First-visit features only),3465,2835,0.0,0.0,0.0,0.0,Simulates predicting repeat behaviour from first visit only

@@ -1,0 +1,43 @@
+feature,perm_importance_mean,perm_importance_std
+tenure_days,0.3386540194849747,0.01182665474747903
+total_spend,0.00035082281205103263,0.0007022316455908879
+Country_Iceland,0.0,0.0
+Country_RSA,0.0,0.0
+Country_Japan,0.0,0.0
+Country_Lebanon,0.0,0.0
+Country_Lithuania,0.0,0.0
+Country_Malta,0.0,0.0
+Country_Netherlands,0.0,0.0
+Country_Norway,0.0,0.0
+Country_Poland,0.0,0.0
+Country_Portugal,0.0,0.0
+Country_Saudi Arabia,0.0,0.0
+Country_Israel,0.0,0.0
+Country_Singapore,0.0,0.0
+Country_Spain,0.0,0.0
+Country_Sweden,0.0,0.0
+Country_Switzerland,0.0,0.0
+Country_USA,0.0,0.0
+Country_United Arab Emirates,0.0,0.0
+Country_United Kingdom,0.0,0.0
+Country_Italy,0.0,0.0
+Country_Unspecified,0.0,0.0
+Country_Cyprus,0.0,0.0
+Country_Austria,0.0,0.0
+Country_France,0.0,0.0
+Country_Finland,0.0,0.0
+Country_European Community,0.0,0.0
+Country_EIRE,0.0,0.0
+Country_Denmark,0.0,0.0
+Country_Czech Republic,0.0,0.0
+Country_Greece,0.0,0.0
+Country_Channel Islands,0.0,0.0
+Country_Canada,0.0,0.0
+Country_Brazil,0.0,0.0
+Country_Belgium,0.0,0.0
+Country_Bahrain,0.0,0.0
+Country_Germany,-8.793989719256823e-05,0.0002638196915777047
+items,-0.00027407433882717933,0.0005606110054184075
+recency_days,-0.0006157358963714721,0.0005634081644129349
+unique_products,-0.0015843276936776784,0.0005281092312258928
+avg_line_value,-0.0016722675908702467,0.00026428953964818813

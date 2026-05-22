@@ -1,0 +1,6 @@
+customer_id,is_repeat_predicted,stage,recommendations,method
+12347,1,established,"['84952C', '84952B', '23509', '16237', '21499']",collaborative_filtering
+12348,1,established,"['21975', '84991', '21213', '21212', '21977']",collaborative_filtering
+12349,0,new,"['51014A', '23445', '51014C', '22197', '51014L']",popularity_country
+12350,0,new,"['16008', '22693', '22197', '72232', '84050']",popularity_country
+12352,1,established,"['47590B', '23139', '23138', '22759', '22090']",collaborative_filtering
